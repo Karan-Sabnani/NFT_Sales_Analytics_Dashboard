@@ -1,5 +1,8 @@
 # [NFT Sales Analytics Dashboard- By ITTECTS]
 
+![Dashboard1](https://github.com/Karan-Sabnani/NFT_Sales_Analytics_Dashboard/assets/86863201/94bdf23b-5934-463f-ad42-4c96ae789b4c)
+
+
 **About**
 The implementation of NFT Sales Analytics Dashboard starts with the analysis of vraious NFTs and Collections. It provides an overview to the users about which NFT he should invest.
 
@@ -41,6 +44,12 @@ STEP 5: Open a terminal in your IDE and run
 - After the dependencies are installed successfully, you can start the project by running the following command: `npm start` or with yarn: `yarn start`
 - This command will start the project and typically launch a development server. You can access your project in a web browser using the provided URL (usually http://localhost:3000 or similar).
 - The specific details of running the project may vary depending on the project setup and configuration, so make sure to refer to any documentation or instructions provided here.
+
+![SignUpPage](https://github.com/Karan-Sabnani/NFT_Sales_Analytics_Dashboard/assets/86863201/a51582e4-be7e-4542-99dc-2273cdd23a5a)
+![SignInPage](https://github.com/Karan-Sabnani/NFT_Sales_Analytics_Dashboard/assets/86863201/64c1b57b-70e7-4dac-bd7e-8163718192fc)![CollectionPage](https://github.com/Karan-Sabnani/NFT_Sales_Analytics_Dashboard/assets/86863201/9ebb72a4-ab22-4e1e-a1a1-a2b4413777f2)
+![Dashboard3](https://github.com/Karan-Sabnani/NFT_Sales_Analytics_Dashboard/assets/86863201/29dc5ac7-b40f-4ea4-ad29-1c1a170c2483)
+
+
 
 ### Backend
 - Change the directory to the server directory of your project. You can do this by running the following command:
