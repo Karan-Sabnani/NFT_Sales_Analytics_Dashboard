@@ -1,7 +1,5 @@
 # [NFT Sales Analytics Dashboard- By ITTECTS]
 
-![Dashboard](https://github.com/Karan-Sabnani/Frontend/src/assets/images/Dashboard1.png)
-
 **About**
 The implementation of NFT Sales Analytics Dashboard starts with the analysis of vraious NFTs and Collections. It provides an overview to the users about which NFT he should invest.
 
@@ -56,22 +54,25 @@ This command will execute the start script defined in the package.json file insi
 - After executing the npm start command, your server should start running and listening for incoming requests on the specified port. The specific details and port may vary depending on your server implementation.
 - If everything goes well, you should see log messages indicating that the server has started successfully.
 - That's it! You have now started the server for your project. You can proceed to use your application by accessing the appropriate URL or interacting with it based on the server's functionality.
-Team Details
-Member 1
-Name: Jagrati Sharma
-Roll No.: 19ESKIT033
-Branch: IT-A (G1)
-Role: UI Design and Frontend development
-Member 2
-Name: Jitendra Prajapat
-Roll No.: 19ESKIT037
-Branch: IT-A (G1)
-Role: Data Management and integration
-Member 3
-Name: Karan Sabnani 
-Roll No.: 19ESKIT038
-Role: Backend Development and creation
-Member 4
-Name: Komal Soni 
-Roll No.: 19ESKIT044
+
+<br/>
+
+Team Details <br/>
+Member 1 <br/>
+Name: Jagrati Sharma <br/>
+Roll No.: 19ESKIT033 <br/>
+Branch: IT-A (G1) <br/>
+Role: UI Design and Frontend development <br/><br/>
+Member 2 <br/>
+Name: Jitendra Prajapat <br/>
+Roll No.: 19ESKIT037 <br/>
+Branch: IT-A (G1) <br/>
+Role: Data Management and integration <br/><br/>
+Member 3 <br/>
+Name: Karan Sabnani <br/>
+Roll No.: 19ESKIT038 <br/>
+Role: Backend Development and creation <br/> <br/>
+Member 4 <br/>
+Name: Komal Soni  <br/>
+Roll No.: 19ESKIT044 <br/>
 Role: Data Management
