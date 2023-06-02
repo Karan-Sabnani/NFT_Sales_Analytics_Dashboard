@@ -1,5 +1,7 @@
 # [NFT Sales Analytics Dashboard- By ITTECTS]
 
+![Dashboard](https://github.com/Karan-Sabnani/Frontend/src/assets/images/Dashboard1.png)
+
 **About**
 The implementation of NFT Sales Analytics Dashboard starts with the analysis of vraious NFTs and Collections. It provides an overview to the users about which NFT he should invest.
 
